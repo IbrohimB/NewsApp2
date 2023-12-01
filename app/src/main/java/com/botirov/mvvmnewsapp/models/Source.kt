@@ -1,4 +1,4 @@
-package com.botirov.mvvmnewsapp
+package com.botirov.mvvmnewsapp.models
 
 data class Source(
     val id: String,

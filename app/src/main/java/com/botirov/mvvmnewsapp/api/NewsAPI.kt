@@ -1,6 +1,6 @@
 package com.botirov.mvvmnewsapp.api
 
-import com.botirov.mvvmnewsapp.NewsResponse
+import com.botirov.mvvmnewsapp.models.NewsResponse
 import com.botirov.mvvmnewsapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
